@@ -3,8 +3,10 @@ pandas
 numpy
 plotly
 ta
-pyotp
+pyotp==2.9.0
 smartapi-python
 logzero
 websocket-client
 openpyxl
+setuptools
+wheel

@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+plotly
+ta
+pyotp
+smartapi-python
+logzero
+websocket-client
+openpyxl
